@@ -9,6 +9,7 @@ venv/
 # Environment variables
 .env
 .env.*
+env*
 
 # Docker
 *.log
